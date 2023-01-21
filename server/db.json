@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is a post",
+      "publishedAt": "20-01-2023",
+      "author": "Mykhailo Shokun"
+    },
+    {
+      "title": "new post",
+      "body": "new post body",
+      "publishedAt": "20-01-2023",
+      "author": "new author",
+      "id": 4
+    },
+    {
+      "title": "new post",
+      "body": "23523532262",
+      "author": "Fantom ",
+      "publishedAt": "2023-01-21",
+      "id": 5
+    },
+    {
+      "title": "qwerty",
+      "body": "dasgaddddddddddddddddddddd варыыыыыыыыыыыыы выарррррррррррррррррр ыварррррррррр ывар dfs sh dfsh dfshhhhhhhhh dfsh dfsh dfshdsf",
+      "author": "Me",
+      "publishedAt": "2023-01-21",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "id": "XPW5",
+      "name": "John Smith",
+      "email": "john@example.com"
+    },
+    {
+      "name": "MiniShok",
+      "email": "111@gmail.com",
+      "id": "XPW5iC2"
+    }
+  ]
+}
